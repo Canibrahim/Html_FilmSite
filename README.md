@@ -1,5 +1,7 @@
 # Html_FilmSite
-Html film sitesi için tema
+Film Sitelerine Özel HTML Olarak Kodlanmış Bir Tema. Ücretsiz Dağıtımdır. Tüm Platformlara Uygun Kodlanmıştır.
+
+Güle güle Kullanın :)
 
 
 <img src="screencapture1.png" style="max-width: 50%;"/>
